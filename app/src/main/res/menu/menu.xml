@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_sign_out"
+        app:showAsAction="never"
+        android:icon="@drawable/log"
+        android:title="Log out" />
+    <item android:id="@+id/cam"
+        app:showAsAction="never"
+        android:title="Call and Message"/>
+    <item android:id="@+id/play"
+        app:showAsAction="never"
+        android:title="Music"/>
+</menu>

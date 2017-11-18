@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402339967096",
+    "firebase_url": "https://dpchattingapp.firebaseio.com",
+    "project_id": "dpchattingapp",
+    "storage_bucket": "dpchattingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402339967096:android:6916c324c694fcc7",
+        "android_client_info": {
+          "package_name": "com.example.tindyebwa.dpchattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402339967096-q5pnsdc4bckkvcj27j00tr0r942i40vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tindyebwa.dpchattingapp",
+            "certificate_hash": "e97c618916499a076c8bf9cbf1358b6d592e6e52"
+          }
+        },
+        {
+          "client_id": "402339967096-ee0kpds3e56md424cb0k3ed0do4rhdfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSiEk17FyFiE5OZB_gie96A2yJJWQzbc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402339967096-ee0kpds3e56md424cb0k3ed0do4rhdfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
